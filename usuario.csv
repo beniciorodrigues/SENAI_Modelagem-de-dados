@@ -1,0 +1,11 @@
+id_usuario,nome,cpf,data_nascimento,senha,email
+1,"Ana Paula Silva",11111111111,1990-03-15,123456,ana@gmail.com
+2,"Bruno Costa",22222222222,1988-07-20,123456,bruno@gmail.com
+3,"Carlos Eduardo",33333333333,1995-01-10,123456,carlos@gmail.com
+4,"Daniela Rocha",44444444444,1992-11-05,123456,daniela@gmail.com
+5,"Eduardo Santos",55555555555,1985-06-30,123456,eduardo@gmail.com
+6,"Fernanda Lima",66666666666,1998-09-12,123456,fernanda@gmail.com
+7,"Gabriel Pereira",77777777777,1991-02-25,123456,gabriel@gmail.com
+8,"Helena Martins",88888888888,1993-04-18,123456,helena@gmail.com
+9,"Igor Almeida",99999999999,1987-12-01,123456,igor@gmail.com
+10,"Juliana Azevedo",10101010101,1996-08-22,123456,juliana@gmail.com

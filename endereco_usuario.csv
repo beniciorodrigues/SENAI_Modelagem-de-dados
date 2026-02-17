@@ -1,0 +1,11 @@
+sequencial,id_usuario,logradouro,cidade,bairro
+1,1,"Rua das Flores, 123",Florianópolis,Centro
+2,2,"Av. Brasil, 450",Florianópolis,Trindade
+3,3,"Rua João Paulo, 88","São José",Kobrasol
+4,4,"Rua dos Pinheiros, 55",Palhoça,Pagani
+5,5,"Av. Beira-Mar Norte, 1000",Florianópolis,Agronômica
+6,6,"Rua Santa Catarina, 210",Florianópolis,Estreito
+7,7,"Rua do Comércio, 77","São José",Campinas
+8,8,"Av. Atlântica, 999","Balneário Camboriú",Centro
+9,9,"Rua XV de Novembro, 15",Blumenau,Centro
+10,10,"Rua Hermann Blumenau, 300",Joinville,América

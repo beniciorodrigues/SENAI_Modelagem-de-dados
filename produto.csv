@@ -1,0 +1,24 @@
+id_produto,id_un_medida,nome_produto
+1,1,"Arroz 5kg"
+2,1,"Feijão 1kg"
+3,3,"Refrigerante 2L"
+4,1,"Açúcar 1kg"
+5,1,"Sal 1kg"
+6,2,Batata
+7,2,Cebola
+8,2,Tomate
+9,1,"Macarrão 500g"
+10,1,"Óleo de Soja 900ml"
+11,3,"Leite Integral 1L"
+12,1,"Café 500g"
+13,1,"Farinha de Trigo 1kg"
+14,1,"Biscoito Recheado"
+15,5,"Papel Higiênico 4 rolos"
+16,1,Detergente
+17,1,"Sabão em Pó"
+18,1,Shampoo
+19,1,Condicionador
+20,1,Margarina
+21,1,"Queijo Mussarela 200g"
+22,1,"Presunto 200g"
+23,8,Ovos

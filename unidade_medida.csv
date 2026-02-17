@@ -1,0 +1,9 @@
+id_un_medida,sigla,descricao
+1,UN,Unidade
+2,KG,Quilograma
+3,LT,Litro
+4,CX,Caixa
+5,PC,Pacote
+6,ML,Mililitro
+7,GR,Grama
+8,DZ,Dúzia

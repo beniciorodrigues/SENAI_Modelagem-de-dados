@@ -1,0 +1,3 @@
+id_mercado,nome,cnpj,senha,data_cadastro,horario_funcionamento
+1,"Supermercado Central",11111111000111,123456,2024-01-05,08:00:00
+2,"Mercado Bom Preço",22222222000122,123456,2024-02-10,07:30:00

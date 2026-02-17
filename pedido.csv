@@ -1,0 +1,2 @@
+id_pedido,id_carrinho,id_usuario,id_colaborador,data,status,hora
+1,1,1,1,2026-02-12,PENDENTE,20:30:00
